@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.log
+# model weights — not included in this repo
+*.pt
+*.bin
+*.safetensors
+*.h5
+*.msgpack
+*.ot
+checkpoints/
+.DS_Store
